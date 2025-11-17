@@ -21,9 +21,9 @@ public class SentinelSum
             sum = number + sum;
                      
       }
-      if (number == -1) {
+      if (number == -1) 
          System.out.print("" + sum);
-      }
+      
          
    }      
 }      
